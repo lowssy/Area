@@ -89,7 +89,6 @@ void handleAreaCalculations() {
   changeTextColor(224);
   cout << "\nArea = " << result << units + "2"  << endl;
   changeTextColor(7);
-  exit(0);
 }
 
 int main() {
